@@ -1,0 +1,62 @@
+project:
+  name: Data Analysis Coursework
+  type: University Assignment
+  language: MATLAB
+
+dataset:
+  name: TMS
+  format: Excel (.xlsx)
+  usage: Statistical analysis and regression
+
+exercises:
+  - id: 1
+    topic: Descriptive Statistics
+    methods:
+      - Mean
+      - Variance
+      - Basic statistical measures
+
+  - id: 2
+    topic: Hypothesis Testing
+    methods:
+      - Mean comparison
+      - Statistical tests
+
+  - id: 3
+    topic: Correlation Analysis
+    methods:
+      - Correlation coefficients
+      - Variable dependence
+
+  - id: 4
+    topic: Linear Regression
+    methods:
+      - Parameter estimation
+      - Regression analysis
+
+  - id: 5
+    topic: Bootstrap Methods
+    methods:
+      - Resampling
+      - Confidence intervals
+
+  - id: 6
+    topic: Chi-Square Test
+    methods:
+      - Chi-square statistic
+      - Hypothesis testing
+
+  - id: 7
+    topic: Regularized Regression
+    methods:
+      - LASSO
+      - Feature selection
+
+skills_demonstrated:
+  - Statistical analysis
+  - Data-driven modeling
+  - Regression techniques
+  - Hypothesis testing
+  - MATLAB programming
+
+

@@ -1,3 +1,20 @@
-Μερικές συναρτήσεις δεν ακολουθούν την ονομασία  Group10Exe5Prog2.m κτλ , επειδή έβαζα τέτοιο όνομα δεν μπορούσε να τρέξει ο αλγόριθμος. έπρεπε να έχει το όνομα της συνάρτησης και για να μην μπερδευτώ έβαλα τα ονόμασα με την ονομασία των συναρτήσεων που υλοποιούνται
-Ελπίζω να μην υπάρχει κάποιο πρόβλημα ως προς το κομμάτι αυτό.
-Ευχαριστούμε εκ των προτέρων και συγνώμη για τη ταλαιπωρία!
+# Data Analysis Coursework (MATLAB) — TMS Dataset Statistical Study
+
+This repository contains a university coursework project in **Data Analysis / Statistics** implemented in **MATLAB**.
+
+## Goal of the project
+Using the dataset **TMS.xlsx**, the goal is to study how different experimental factors (e.g., **TMS condition**, **coil type**, **setup**, and stimulation parameters) relate to **ED duration** (`EDduration`).  
+The work answers a set of structured questions using:
+
+- Distribution fitting & goodness-of-fit
+- Bootstrap-based hypothesis testing
+- Confidence intervals (parametric vs bootstrap)
+- Correlation testing (parametric and randomization test)
+- Regression modeling (simple and multiple)
+- Feature selection (stepwise regression and LASSO)
+- Train/test evaluation (prediction MSE)
+
+This repo is organized as one folder with **exercise scripts** and **helper functions**.
+
+---
+
